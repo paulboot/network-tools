@@ -1,0 +1,3 @@
+show port-channel summary | exclude NONE
+show interface status
+show interface trunk
