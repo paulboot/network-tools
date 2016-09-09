@@ -1,0 +1,5 @@
+show interface trunk
+
+show vlan brief
+
+show vlan group
