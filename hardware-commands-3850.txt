@@ -1,0 +1,9 @@
+show version | in Uptime|uptime
+
+show environment all
+
+show version | in Catalyst
+
+dir | in cat
+
+sh module
